@@ -2,6 +2,8 @@
 Something to learn 0mq and clojure
 
 There is no need to install jzmq as this uses the pure java jeromq.
+https://github.com/zeromq/jeromq
+JeroMQ does not use exactly the same API but it should be good enough.
 You just need to install 'boot-clj' and then start the client and server.
 
 http://boot-clj.com/
