@@ -6,6 +6,8 @@ You just need to install 'boot-clj' and then start the client and server.
 
 http://boot-clj.com/
 
+There are two tasks in the 'build.boot' file that can be used to start things.
+
 ```bash
 boot run-client
 boot run-server
