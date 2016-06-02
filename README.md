@@ -15,3 +15,8 @@ boot run-server
 
 The order you start them should not matter. 
 That is one of the nice things about 0mq.
+
+These two tasks correspond to the programs found...
+http://zguide.zeromq.org/page:all#Ask-and-Ye-Shall-Receive
+
+
